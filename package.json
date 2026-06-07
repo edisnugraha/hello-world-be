@@ -1,0 +1,9 @@
+{
+  "name": "hello-world-be",
+  "version": "1.0.0",
+  "description": "Hello World Backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
